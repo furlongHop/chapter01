@@ -39,6 +39,8 @@ public class Ex09 {
 		System.out.println(a>b); //5>7 F
 		System.out.println(!(a>b)); //!F → true
 		
+		System.out.println("test");
+		
 	}
 	
 }
